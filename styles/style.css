@@ -1,0 +1,22 @@
+.title{
+    color: yellow;
+    background-color: black;
+    width: 500px;
+}
+.marked{
+    color: blueviolet;
+}
+.box{
+    background: lightskyblue;
+    width: 700px;
+}
+button{
+    width: 100px;
+    height: 50px;
+}
+h3{
+    background: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+}
